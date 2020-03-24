@@ -1,0 +1,11 @@
+D:\.NET Projects\design_patterns_instructor\DesignPatterns\BuilderWithInheritence\bin\Debug\netcoreapp3.1\BuilderWithInheritence.exe
+D:\.NET Projects\design_patterns_instructor\DesignPatterns\BuilderWithInheritence\bin\Debug\netcoreapp3.1\BuilderWithInheritence.deps.json
+D:\.NET Projects\design_patterns_instructor\DesignPatterns\BuilderWithInheritence\bin\Debug\netcoreapp3.1\BuilderWithInheritence.runtimeconfig.json
+D:\.NET Projects\design_patterns_instructor\DesignPatterns\BuilderWithInheritence\bin\Debug\netcoreapp3.1\BuilderWithInheritence.runtimeconfig.dev.json
+D:\.NET Projects\design_patterns_instructor\DesignPatterns\BuilderWithInheritence\bin\Debug\netcoreapp3.1\BuilderWithInheritence.dll
+D:\.NET Projects\design_patterns_instructor\DesignPatterns\BuilderWithInheritence\bin\Debug\netcoreapp3.1\BuilderWithInheritence.pdb
+D:\.NET Projects\design_patterns_instructor\DesignPatterns\BuilderWithInheritence\obj\Debug\netcoreapp3.1\BuilderWithInheritence.csprojAssemblyReference.cache
+D:\.NET Projects\design_patterns_instructor\DesignPatterns\BuilderWithInheritence\obj\Debug\netcoreapp3.1\BuilderWithInheritence.AssemblyInfoInputs.cache
+D:\.NET Projects\design_patterns_instructor\DesignPatterns\BuilderWithInheritence\obj\Debug\netcoreapp3.1\BuilderWithInheritence.AssemblyInfo.cs
+D:\.NET Projects\design_patterns_instructor\DesignPatterns\BuilderWithInheritence\obj\Debug\netcoreapp3.1\BuilderWithInheritence.dll
+D:\.NET Projects\design_patterns_instructor\DesignPatterns\BuilderWithInheritence\obj\Debug\netcoreapp3.1\BuilderWithInheritence.pdb
