@@ -9,3 +9,14 @@ D:\.NET Projects\design_patterns_instructor\DesignPatterns\Builder\obj\Debug\net
 D:\.NET Projects\design_patterns_instructor\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
 D:\.NET Projects\design_patterns_instructor\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.dll
 D:\.NET Projects\design_patterns_instructor\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+D:\.NET Projects\design_patterns_instructor\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+D:\.NET Projects\design_patterns_instructor\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+D:\.NET Projects\design_patterns_instructor\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+D:\.NET Projects\design_patterns_instructor\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+D:\.NET Projects\design_patterns_instructor\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+D:\.NET Projects\design_patterns_instructor\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+D:\.NET Projects\design_patterns_instructor\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+D:\.NET Projects\design_patterns_instructor\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+D:\.NET Projects\design_patterns_instructor\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+D:\.NET Projects\design_patterns_instructor\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+D:\.NET Projects\design_patterns_instructor\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
