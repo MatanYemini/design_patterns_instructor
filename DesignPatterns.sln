@@ -29,17 +29,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype_YeminiEx", "Proto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monostate", "Monostate\Monostate.csproj", "{3EFA511F-05C8-404C-BB0C-953AEA9E43E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDemo", "AdapterDemo\AdapterDemo.csproj", "{B1DF93F4-2187-4ACA-A33E-299C34758289}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterDemo", "AdapterDemo\AdapterDemo.csproj", "{B1DF93F4-2187-4ACA-A33E-299C34758289}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter_YeminiEx", "Adapter_YeminiEx\Adapter_YeminiEx.csproj", "{2E965473-5854-4825-889F-97621BA63ED3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter_YeminiEx", "Adapter_YeminiEx\Adapter_YeminiEx.csproj", "{2E965473-5854-4825-889F-97621BA63ED3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge_Demo", "Bridge_Demo\Bridge_Demo.csproj", "{9636F2F8-EBA1-4664-8E81-365CB936988D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge_Demo", "Bridge_Demo\Bridge_Demo.csproj", "{9636F2F8-EBA1-4664-8E81-365CB936988D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge_YeminiEx", "Bridge_YeminiEx\Bridge_YeminiEx.csproj", "{60ADA7D9-4720-46F9-B5D2-42507C5EF0ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge_YeminiEx", "Bridge_YeminiEx\Bridge_YeminiEx.csproj", "{60ADA7D9-4720-46F9-B5D2-42507C5EF0ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite_GeoObjectsExample", "Composite_GeoObjectsExample\Composite_GeoObjectsExample.csproj", "{7EC74C96-A4D3-4BE5-A387-0782CA3B4558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite_GeoObjectsExample", "Composite_GeoObjectsExample\Composite_GeoObjectsExample.csproj", "{7EC74C96-A4D3-4BE5-A387-0782CA3B4558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite_YeminiEx", "Composite_YeminiEx\Composite_YeminiEx.csproj", "{AAAFF493-7145-45E1-89AA-CBCD34CFFB59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite_YeminiEx", "Composite_YeminiEx\Composite_YeminiEx.csproj", "{AAAFF493-7145-45E1-89AA-CBCD34CFFB59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator_YeminiEx", "Decorator_YeminiEx\Decorator_YeminiEx.csproj", "{0360194B-7475-4F03-9ECB-954A48EC4854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{76B9EA8C-F812-469F-AEE2-DD25E6AA06F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +127,14 @@ Global
 		{AAAFF493-7145-45E1-89AA-CBCD34CFFB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAAFF493-7145-45E1-89AA-CBCD34CFFB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAAFF493-7145-45E1-89AA-CBCD34CFFB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0360194B-7475-4F03-9ECB-954A48EC4854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0360194B-7475-4F03-9ECB-954A48EC4854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0360194B-7475-4F03-9ECB-954A48EC4854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0360194B-7475-4F03-9ECB-954A48EC4854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B9EA8C-F812-469F-AEE2-DD25E6AA06F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B9EA8C-F812-469F-AEE2-DD25E6AA06F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B9EA8C-F812-469F-AEE2-DD25E6AA06F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B9EA8C-F812-469F-AEE2-DD25E6AA06F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
