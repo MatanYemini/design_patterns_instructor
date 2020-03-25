@@ -34,5 +34,14 @@ namespace Adapter_YeminiEx
         public int Width => _square.Side;
         public int Height => _square.Side;
     }
+
+    class Program
+    {
+         static int Main()
+        {
+            return 1;
+        }
+    }
+   
 }
 
