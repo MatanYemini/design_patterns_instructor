@@ -9,3 +9,14 @@ D:\.NET Projects\design_patterns_instructor\DesignPatterns\YeminiExSolution\obj\
 D:\.NET Projects\design_patterns_instructor\DesignPatterns\YeminiExSolution\obj\Debug\netcoreapp3.1\YeminiExSolution.AssemblyInfo.cs
 D:\.NET Projects\design_patterns_instructor\DesignPatterns\YeminiExSolution\obj\Debug\netcoreapp3.1\YeminiExSolution.dll
 D:\.NET Projects\design_patterns_instructor\DesignPatterns\YeminiExSolution\obj\Debug\netcoreapp3.1\YeminiExSolution.pdb
+D:\.NET Projects\design_patterns_instructor\YeminiExSolution\bin\Debug\netcoreapp3.1\YeminiExSolution.exe
+D:\.NET Projects\design_patterns_instructor\YeminiExSolution\bin\Debug\netcoreapp3.1\YeminiExSolution.deps.json
+D:\.NET Projects\design_patterns_instructor\YeminiExSolution\bin\Debug\netcoreapp3.1\YeminiExSolution.runtimeconfig.json
+D:\.NET Projects\design_patterns_instructor\YeminiExSolution\bin\Debug\netcoreapp3.1\YeminiExSolution.runtimeconfig.dev.json
+D:\.NET Projects\design_patterns_instructor\YeminiExSolution\bin\Debug\netcoreapp3.1\YeminiExSolution.dll
+D:\.NET Projects\design_patterns_instructor\YeminiExSolution\bin\Debug\netcoreapp3.1\YeminiExSolution.pdb
+D:\.NET Projects\design_patterns_instructor\YeminiExSolution\obj\Debug\netcoreapp3.1\YeminiExSolution.csprojAssemblyReference.cache
+D:\.NET Projects\design_patterns_instructor\YeminiExSolution\obj\Debug\netcoreapp3.1\YeminiExSolution.AssemblyInfoInputs.cache
+D:\.NET Projects\design_patterns_instructor\YeminiExSolution\obj\Debug\netcoreapp3.1\YeminiExSolution.AssemblyInfo.cs
+D:\.NET Projects\design_patterns_instructor\YeminiExSolution\obj\Debug\netcoreapp3.1\YeminiExSolution.dll
+D:\.NET Projects\design_patterns_instructor\YeminiExSolution\obj\Debug\netcoreapp3.1\YeminiExSolution.pdb
